@@ -151,6 +151,7 @@ class GetCategoryPostsView(View):
                     'images': post_images,
                     'user_first_name': post.user.first_name,
                     'user_last_name': post.user.last_name,
+                    'phone':post.phone,
                 }
 
                 post_data.append(post_info)
