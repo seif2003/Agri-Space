@@ -47,3 +47,4 @@ Ensure that you have the required environment variables in the .env file, includ
 
 - Seif Ddine Ben Amara
 - Khaled Hammami
+- Ghizlen Maarouf
